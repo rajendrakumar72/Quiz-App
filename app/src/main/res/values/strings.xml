@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">What is android?</string>
+    <string name="optionA">Software</string>
+    <string name="optionB">OS</string>
+    <string name="optionC">Application</string>
+    <string name="optionD">Robot</string>
+    <string name="answerQus_1">OS</string>
+    <string name="selected_option">Selected Option</string>
+    <string name="_1_8_question">1/10 Question</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="score_1_8">Score 1/10</string>
+
+
+    <string name="question_2">What is the preferred communications method used with systems on a bot-net?</string>
+    <string name="option2A">IRC</string>
+    <string name="option2B">E-Mail</string>
+    <string name="option2C">ICMP</string>
+    <string name="option2D">TFTP</string>
+    <string name="answerQus_2">IRC</string>
+
+    <string name="question_3">Which wireless standard can operate at speeds of 100+ Mbps and uses the 2.4GHz to 5GHz range?</string>
+    <string name="option3A">802.11a</string>
+    <string name="option3B">802.11b</string>
+    <string name="option3C">802.11g</string>
+    <string name="option3D">802.11n</string>
+    <string name="answerQus_3">802.11n</string>
+
+    <string name="question_4">Which wireless standard can operate at speeds of 100+ Mbps and uses the 2.4GHz to 5GHz range?</string>
+    <string name="option4A">Transport</string>
+    <string name="option4B">Datalink</string>
+    <string name="option4C">Network</string>
+    <string name="option4D">Physical</string>
+    <string name="answerQus_4">Datalink</string>
+
+    <string name="question_5">What are the forms of password cracking techniques?</string>
+    <string name="option5A">AttackBrute Forcing</string>
+    <string name="option5B">AttacksHybrid</string>
+    <string name="option5C">AttackSyllable</string>
+    <string name="option5D">All of the above</string>
+    <string name="answerQus_5">All of the above</string>
+
+    <string name="question_6">What is the attack called “evil twin”?</string>
+    <string name="option6A">MAC spoofing</string>
+    <string name="option6B">ARP poisoning</string>
+    <string name="option6C">Rogue access point</string>
+    <string name="option6D">Session hijacking</string>
+    <string name="answerQus_6">Rogue access point</string>
+
+    <string name="question_7">Which wireless mode connects machines directly to one another, without the use of an access point?</string>
+    <string name="option7A">Point to point</string>
+    <string name="option7B">Infrastructure</string>
+    <string name="option7C">Ad hoc</string>
+    <string name="option7D">BSS</string>
+    <string name="answerQus_7">Ad hoc</string>
+
+    <string name="question_8">CDMA stands for?</string>
+    <string name="option8A">Code data multiple access</string>
+    <string name="option8B">Code division multiple access</string>
+    <string name="option8C">None of the above</string>
+    <string name="option8D">Code data management authority</string>
+    <string name="answerQus_8">Code division multiple access</string>
+
+    <string name="question_9">What is the maximum length of an SSID?</string>
+    <string name="option9A">Eight characters</string>
+    <string name="option9B">Sixteen characters</string>
+    <string name="option9C">Thirty-two characters</string>
+    <string name="option9D">Sixty-four characters</string>
+    <string name="answerQus_9">Thirty-two characters</string>
+
+    <string name="question_10">Which of the following is a passive wireless discovery tool?</string>
+    <string name="option10A">NetStumbler</string>
+    <string name="option10B">Aircrack</string>
+    <string name="option10C">Kismet</string>
+    <string name="option10D">Netsniff</string>
+    <string name="answerQus_10">Kismet</string>
+
+
+</resources>
